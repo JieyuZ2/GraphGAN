@@ -1,6 +1,7 @@
 ## GraphGAN
 
-- This is the implementation of [AAAI2018. GraphGAN](https://hwwang55.github.io/files/2018-AAAI-GraphGAN.pdf)
+- This is the Pytorch implementation of [AAAI2018. GraphGAN](https://hwwang55.github.io/files/2018-AAAI-GraphGAN.pdf)
+- Update: it can get better performance of the given dataset than what is reported in the paper.
 
 
 
@@ -15,11 +16,6 @@
 - src : includes the source codes
 
   ​
-
-#### requirements:
-
-- tensorflow
-- tqdm(display the running progress)
 
 
 #### data
